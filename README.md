@@ -3,4 +3,4 @@
 Hey there 👋,
 
 After a Business School, I decided to train in Data Science thanks to the Bootcamp Le Wagon 😀  
-Python, Machine Learning, Deep Learning are now my main activities 💘
+Python Programming, Machine Learning and Deep Learning are now my favorite activities 💘
