@@ -6,7 +6,7 @@ After a Business School, I decided to train in Data Science thanks to the Bootca
 Python Programming, Machine Learning and Deep Learning are now my favorite activities 💘  
 
 
-- 🚀 I use daily:
+- 🚀 I use daily:  
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
