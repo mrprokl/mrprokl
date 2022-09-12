@@ -19,5 +19,5 @@ Python Programming, Machine Learning and Deep Learning are now my favorite activ
 
 - 📧 Contact:  
   
-[![Linkedin Badge](https://img.shields.io/badge/-thomasgomezai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-gomez-ai/)](https://www.linkedin.com/in/thomas-gomez-ai/)
-[![Gmail Badge](https://img.shields.io/badge/-hi@tgomez.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi@tgomez.tech)](mailto:hi@tgomez.tech)
+  [![Linkedin Badge](https://img.shields.io/badge/-thomasgomezai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-gomez-ai/)](https://www.linkedin.com/in/thomas-gomez-ai/)
+  [![Gmail Badge](https://img.shields.io/badge/-hi@tgomez.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi@tgomez.tech)](mailto:hi@tgomez.tech)
