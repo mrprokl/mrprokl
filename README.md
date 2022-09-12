@@ -15,3 +15,9 @@ Python Programming, Machine Learning and Deep Learning are now my favorite activ
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![ScikitLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  
+
+- 📧 Contact:  
+  
+[![Linkedin Badge](https://img.shields.io/badge/-thomasgomezai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-gomez-ai/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Gmail Badge](https://img.shields.io/badge/-hi@tgomez.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi@tgomez.tech)](mailto:hi@tgomez.tech)
