@@ -18,4 +18,4 @@ Passionate about Python, Machine Learning & Deep Learning 🚀
 - 📧 Contact:  
   
   [![Linkedin Badge](https://img.shields.io/badge/-thomasgomezai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-gomez-ai/)](https://www.linkedin.com/in/thomas-gomez-ai/)
-  [![Gmail Badge](https://img.shields.io/badge/-hi@tgomez.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi@tgomez.tech)](mailto:thmsgomez91@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-thmsgomez91@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thmsgomez91@gmail.com)](mailto:thmsgomez91@gmail.com)
